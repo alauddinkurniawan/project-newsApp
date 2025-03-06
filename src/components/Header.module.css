@@ -1,10 +1,11 @@
 .header {
-    width: 100%;
-    padding: 16px;
+    width: 90%;
+    padding: 16px 48px;
+    margin : 40px auto;
     background-color: #0a0a0a;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    margin : 40px;
+    
   }
   
   .container {
@@ -37,13 +38,13 @@
   }
   
   .navLink {
-    color: rgba(0, 0, 0, 0.8);
+    color: #DCDCDC;
     text-decoration: none;
     transition: color 0.2s ease;
   }
   
   .navLink:hover {
-    color: #000;
+    color: #DEDEDE;
   }
   
   /* Switch styles */

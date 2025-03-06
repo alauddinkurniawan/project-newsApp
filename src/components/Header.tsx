@@ -12,7 +12,7 @@ export default function PrimeTimeHeader() {
       <div className={styles.container}>
         <div className={styles.logo}>
           <h1>
-            <span className={styles.prime}>Prime</span>Time
+            <span className={styles.prime}><i>Prime</i></span><i>Time</i><span className={styles.prime}>!</span>
             <span className={styles.version}>v.1.0.0</span>
           </h1>
         </div>
